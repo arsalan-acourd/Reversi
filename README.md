@@ -1,5 +1,5 @@
 Course: CS4701 - Artificial Intelligence
-Assignment No. :2
+
 ------------------------------------------
 Name	: Shrutika Dasgupta
 
